@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <!--
