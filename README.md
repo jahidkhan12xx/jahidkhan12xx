@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **jahidkhan12xx/jahidkhan12xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
