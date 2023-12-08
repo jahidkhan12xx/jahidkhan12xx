@@ -1,4 +1,4 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 <!--
