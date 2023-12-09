@@ -81,9 +81,9 @@
     
     
     
-## 2. Taste Trial Paradise
+## 1. Employee Management Project
 
-#### ✔ A restaurant Management Website with MERN stack [https://taste-trial-paradise.web.app/]
+#### ✔ An Employee Management Website with MERN stack [Live Link](https://programming-booth.web.app/)
 **Github Links:**
 #### front-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Client]
 #### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]
