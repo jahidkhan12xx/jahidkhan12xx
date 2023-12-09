@@ -11,15 +11,15 @@
     <img src="https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a my new project**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Next.js, Mongoose, Material UI**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
