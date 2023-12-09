@@ -8,7 +8,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png" />
+    <img style = "width:100vw" src="https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png" />
 </h1>
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
