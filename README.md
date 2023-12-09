@@ -69,16 +69,13 @@
 
 <br/><br/>
 
-## 2. Taste Trial Paradise
-#### ✔ A restaurant Management Website with MERN stack [https://taste-trial-paradise.web.app/]
-**Github Links:**
-#### front-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Client]
-#### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]
-#### Top 5 main Features of This Project:
-- Search and Pagination functionality available.
-- Private route necessary for ordering foods and adding to cart.
-- User can add foods and will show it through the database.
 
+
+
+
+<div align=center>
+#My Best Projects
+</div>
 
 
 
