@@ -1,6 +1,6 @@
 <img style = "width:100vw" src = "https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png"/>
 
-<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</p>
+<div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)</div>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,nodejs,js,html,css)](https://skillicons.dev)
 
