@@ -1,11 +1,12 @@
-<h1 align="center">
-    <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zahid+Khan!;" />
-</h1>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=jahidkhan12xx.jahidkhan12xx" />
 
 
 <h1 align="center">
     <img style = "width:100vw" src="https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png" />
+</h1>
+<h1 align="center">
+    <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zahid+Khan!;" />
 </h1>
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
