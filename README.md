@@ -112,19 +112,17 @@
 
 
 
-## 1. Employee Management Project
+## 3. Brandshop  Project
 
-#### ✔ An Employee Management Website with MERN stack [Live Link](https://programming-booth.web.app/)
+#### ✔ An BrandShop Website with MERN stack [Live Link](https://brand-shop-4b959.web.app/)
 **Github Links:**
-#### front-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Client.git)
-#### back-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Server.git)
+#### front-end [Click Here](https://github.com/jahidkhan12xx/brandShop.git)
+#### back-end [Click Here](https://github.com/jahidkhan12xx/brandShop-server.git)
 #### Top 5 main Features of This Project:
-- Salary Management: Track and manage employee salaries seamlessly.
-- Work Hours: Monitor and record employee work hours efficiently.
-- Contract Management: Handle employee contracts with ease.
-- User Roles: Assign roles and permissions to different user types.
-- Admin email: jahidkhan12xx@gmail.com
-- Admin password: JahidL2023#
+- Used JWT token for better security
+- Used Firebase authentication system
+- Create and manage your personalized user account, complete with a user profile, preferences, and order history.
+Easily update personal information and track your previous purchases for a streamlined shopping experience.
 </div>
 
 
