@@ -85,12 +85,15 @@
 
 #### ✔ An Employee Management Website with MERN stack [Live Link](https://programming-booth.web.app/)
 **Github Links:**
-#### front-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Client]
-#### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]
+#### front-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Client.git)
+#### back-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Server.git)
 #### Top 5 main Features of This Project:
-- Search and Pagination functionality available.
-- Private route necessary for ordering foods and adding to cart.
-- User can add foods and will show it through the database.
+- Salary Management: Track and manage employee salaries seamlessly.
+- Work Hours: Monitor and record employee work hours efficiently.
+- Contract Management: Handle employee contracts with ease.
+- User Roles: Assign roles and permissions to different user types.
+- Admin email: jahidkhan12xx@gmail.com
+- Admin password: JahidL2023#
 </div>
 
 
