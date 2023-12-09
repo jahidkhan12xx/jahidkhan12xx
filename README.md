@@ -10,6 +10,14 @@
 </h1>
 
 <h1 align="center"> A passionate web developer from Bangladesh </h1>
+<div>
+        
+ 🔭 I’m currently working on **a my new project**
+ 
+ 🌱 I’m currently learning **Next.js, Mongoose, Material UI**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+</div>
 
 
 
