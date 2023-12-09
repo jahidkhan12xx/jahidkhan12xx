@@ -77,7 +77,7 @@
     
 # My Best Projects
 
-<div>
+<div align=left>
     ## 2. Taste Trial Paradise
 #### ✔ A restaurant Management Website with MERN stack [https://taste-trial-paradise.web.app/]
 **Github Links:**
