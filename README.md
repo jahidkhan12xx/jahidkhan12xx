@@ -14,14 +14,13 @@
 
 
 <div align="center">
-A passionate web developer from Bangladesh  
+A passionate web developer from Bangladesh
     
-    <br/> 
+<br/>
     
-    <br/>
+<br/>
 
     
- 
  🔭 I’m currently working on **a my new project**
  
  🌱 I’m currently learning **Next.js, Mongoose, Material UI**
