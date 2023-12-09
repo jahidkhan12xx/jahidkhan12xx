@@ -10,7 +10,7 @@
 </h1>
 
 <h1 align="center"> A passionate web developer from Bangladesh </h1>
-<div>
+<div align="center">
         
  I am very passionate about my work. I have worked with React, Javascript, MongoDB, Express, and Node JS. I can build a full-stack website by using MERN stack.
 </div>
