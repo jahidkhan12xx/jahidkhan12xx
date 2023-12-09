@@ -94,6 +94,40 @@
 - User Roles: Assign roles and permissions to different user types.
 - Admin email: jahidkhan12xx@gmail.com
 - Admin password: JahidL2023#
+
+
+
+## 1. Employee Management Project
+
+#### ✔ An Employee Management Website with MERN stack [Live Link](https://programming-booth.web.app/)
+**Github Links:**
+#### front-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Client.git)
+#### back-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Server.git)
+#### Top 5 main Features of This Project:
+- Salary Management: Track and manage employee salaries seamlessly.
+- Work Hours: Monitor and record employee work hours efficiently.
+- Contract Management: Handle employee contracts with ease.
+- User Roles: Assign roles and permissions to different user types.
+- Admin email: jahidkhan12xx@gmail.com
+- Admin password: JahidL2023#
+
+
+
+
+
+## 1. Employee Management Project
+
+#### ✔ An Employee Management Website with MERN stack [Live Link](https://programming-booth.web.app/)
+**Github Links:**
+#### front-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Client.git)
+#### back-end [Click Here](https://github.com/jahidkhan12xx/Employee-Management-Project-Server.git)
+#### Top 5 main Features of This Project:
+- Salary Management: Track and manage employee salaries seamlessly.
+- Work Hours: Monitor and record employee work hours efficiently.
+- Contract Management: Handle employee contracts with ease.
+- User Roles: Assign roles and permissions to different user types.
+- Admin email: jahidkhan12xx@gmail.com
+- Admin password: JahidL2023#
 </div>
 
 
