@@ -1,8 +1,9 @@
 <img style = "width:100vw" src = "https://raw.githubusercontent.com/jahidkhan12xx/jahidkhan12xx/main/welcome%20to%20MY.png"/>
-<hr/> <br/>
+ <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidkhan12xx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,nodejs,js,html,css)](https://skillicons.dev)
+https://api.githubtrends.io/user/svg/jahidkhan12xx/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark
 
 
 <!--
