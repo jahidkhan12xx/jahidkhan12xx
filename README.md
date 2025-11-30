@@ -112,17 +112,15 @@
 
 
 
-## 3. Brandshop  Project
+## 3. Artify Ecommerce  Project
 
-#### ✔ An BrandShop Website with MERN stack [Live Link](https://brand-shop-4b959.web.app/)
+#### ✔ A e-commerce Website with Next.js and sanity  [Live Link](https://artify-ecommerce-dvtv.vercel.app/)
 **Github Links:**
-#### front-end [Click Here](https://github.com/jahidkhan12xx/brandShop.git)
-#### back-end [Click Here](https://github.com/jahidkhan12xx/brandShop-server.git)
-#### Top 5 main Features of This Project:
-- Used JWT token for better security
-- Used Firebase authentication system
-- Create and manage your personalized user account, complete with a user profile, preferences, and order history.
-Easily update personal information and track your previous purchases for a streamlined shopping experience.
+#### Full_code [Click Here](https://github.com/jahidkhan12xx/Artify_Ecommerce.git)
+#### Top  main Features of This Project:
+- Used Sanity for an easy and organized backend and Database. So that it can update data when it needs to easily
+- Used Clerk for authentication
+- I am till working on it
 </div>
 
 
