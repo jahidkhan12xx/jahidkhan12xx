@@ -97,17 +97,16 @@
 
 
 
-## 2. Hotel Management Project
+## 2. Expense Management Project
 
-#### ✔ A Hotel Management Website with MERN stack [Live Link](https://assignment-11-7ddcc.web.app/)
+#### ✔ A Expense Management Website with MERN stack [Live Link](https://expense-pearl-one.vercel.app/)
 **Github Links:**
-#### front-end [Click Here](https://github.com/jahidkhan12xx/roombooking.git)
-#### back-end [Click Here](https://github.com/jahidkhan12xx/roombooking-server.git)
+#### Full_code [Click Here](https://github.com/jahidkhan12xx/expense.git)
+
 #### Top 5 main Features of This Project:
-- Booking System: Offers a user-friendly booking system allowing guests to reserve rooms with ease.
-- Unique Design: This design is so unique,and interactive.
-- Dynamic Content: Showcases hotel details, amenities, special offers, and events.
-- Rating & Review: Provides a platform for users to leave ratings and reviews, enhancing the guest experience.
+- The user can make a budget and manage it
+- He can also update and delete whenever he wants
+- I also added a dashboard with many graphs and data tables so that the user can see and visualize their expenses.
 
 
 
@@ -120,7 +119,7 @@
 #### Top  main Features of This Project:
 - Used Sanity for an easy and organized backend and Database. So that it can update data when it needs to easily
 - Used Clerk for authentication
-- I am till working on it
+- I am still working on it
 </div>
 
 
